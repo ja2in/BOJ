@@ -8,7 +8,7 @@ public class No10773 {
 	public static void main(String[] args) throws IOException{
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		Stack<Integer> s = new Stack<Integer>();		// ½ºÅÃ »ý¼º
+		Stack<Integer> s = new Stack<Integer>();		// Â½ÂºÃ…Ãƒ Â»Ã½Â¼Âº
 		int k = Integer.parseInt(br.readLine());
 		int sum = 0;
 		
