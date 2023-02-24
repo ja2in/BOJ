@@ -19,4 +19,4 @@ N과 K가 주어지면 (N, K)-요세푸스 순열을 구하는 프로그램을 �
 구현, 자료구조, 큐(queue)
 <br></br>
 ## :hand: 문제 링크
-<a href="https://www.acmicpc.net/problem/11866" rel="nofollow">문제 링크</a></p>
+<a href="https://www.acmicpc.net/problem/11866" rel="nofollow">BOJ [No.11866]</a></p>
